@@ -19,7 +19,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://backendapi.iihtsrt.com/wp-content/uploads/2022/04/CPP.jpg" alt="c" width="40" height="40"/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://pathfinder.w3schools.com/learningpaths" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/mysql/default.asp" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="css3" width="40" height="40"/> </a> 
 
   </p>
 
