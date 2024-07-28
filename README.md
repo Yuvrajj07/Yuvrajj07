@@ -4,8 +4,6 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetsingh02028&label=Profile%20views&color=0e75b6&style=flat" alt="meetsingh0202" /> </p>
-
 - 🌱 I’m currently learning ** Web Development **
 
 - 📫 How to reach me **vyuvrajsingh98@gmail.com**
@@ -13,12 +11,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yuvraj-singh-398833243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuvraj-singh-398833243/" height="30" width="40" /></a>
-<a href="https://camo.githubusercontent.com/e8a0f868c38a9b8803532a9943e84e3eda9f632d4dfbd7a9db56ed9564d3490c/68747470733a2f2f7777772e73746f707374616c6b2e636f6d2f7374617469632f696d616765732f73746f707374616c6b2d6c6f676f2e706e67" target="blank"><img align="center" src="https://www.stopstalk.com/user/profile/Yuvraj7878" alt="https://www.stopstalk.com/user/profile/Yuvraj7878" height="30" width="30" /></a>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDN7YeyGAxA5AKxqH-eb4HBZEOJctfkGK6KJnUmTqlg&s" target="blank"><img align="center" src="https://www.stopstalk.com/user/profile/Yuvraj7878" alt="https://www.stopstalk.com/user/profile/Yuvraj7878" height="30" width="30" /></a>
 <a href="https://leetcode.com/u/yuvraj7878/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yuvraj7878/" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="[https://www.cprogramming.com/](https://backendapi.iihtsrt.com/wp-content/uploads/2022/04/CPP.jpg)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
