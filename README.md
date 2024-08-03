@@ -3,6 +3,7 @@
 <h3 align="center">Competitive Programmer</h3>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajj07&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajj07" /> </p>
 
 - 🌱 I’m currently learning ** Web Development **
 
@@ -27,6 +28,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajj07&" alt="meetsingh0202" width = "390"/>
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuvrajj07&show_icons=true&locale=en" alt="meetsingh0202" width = "390" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajj07&" alt="yuvrajj07" width = "390"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuvrajj07&show_icons=true&locale=en" alt="yuvrajj07" width = "390" />
   </p>
