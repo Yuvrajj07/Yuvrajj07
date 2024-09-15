@@ -5,7 +5,7 @@
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>--> 
  <img alt="Night Coding" src="https://media1.tenor.com/m/A-xepNszV9YAAAAC/ai-bot.gif" align="right"/>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajj07&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajj07" style="width:90px; height:70px" />
+  <img src="https://komarev.com/ghpvc/?username=yuvrajj07&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajj07" style="width:50px; height:40px" />
 </p>
 
 - 🌱 I’m currently learning ** Web Development **
