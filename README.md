@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">Competitive Programmer</h3>
 
-<!-- img alt="Night Coding" src="https://tenor.com/u2Xe85LU0E.gif" align="right"/> -->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>--> 
+ <img alt="Night Coding" src="https://tenor.com/view/ai-bot-chatgpt-artificial-chat-gpt-gif-282704938762721238" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajj07&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajj07" /> </p>
 
