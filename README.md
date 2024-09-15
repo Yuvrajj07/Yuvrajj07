@@ -1,11 +1,11 @@
-<!-- (https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg?fj=1) -->
+ <!-- (https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg?fj=1) -->
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">Competitive Programmer</h3>
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>--> 
  <img alt="Night Coding" src="https://media1.tenor.com/m/A-xepNszV9YAAAAC/ai-bot.gif" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajj07&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajj07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajj07&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajj07" style "width:90px; height:70px" /> </p>
 
 - 🌱 I’m currently learning ** Web Development **
 
