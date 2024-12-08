@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">I am a Competitive Programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuvrajj07" alt="sahilshukla302003" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuvrajj07" alt="Yuvrajj07" /></a> </p>
 
 
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
