@@ -34,6 +34,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajj07&" alt="yuvrajj07" width = "390"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajj07&" alt="yuvrajj07" width = "390"/>
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuvrajj07&show_icons=true&locale=en" alt="yuvrajj07" width = "390" />
   </p>
