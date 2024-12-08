@@ -26,7 +26,8 @@
   <a href="https://www.w3schools.com/mysql/default.asp" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="css3" width="40" height="40"/> </a> 
 
   </p>
-  
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuvrajj07" alt="Yuvrajj07" /></a> </p>
 
 
