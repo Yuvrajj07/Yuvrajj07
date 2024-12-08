@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
-<h3 align="center"> | Competitive Programmer | </h3>
+<h3 align="center">Competitive Programmer | Web Developer | Tech Enthusiast</h3>
 
 <img align="right" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400"/>
 
@@ -63,4 +63,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvrajj07&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuvrajj07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
+
+---
