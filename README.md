@@ -27,10 +27,8 @@
   </p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuvrajj07" alt="Yuvrajj07" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuvrajj07&show_icons=true&locale=en&layout=compact" alt="Yuvrajj07" /></p>
-
-<br></br>
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuvrajj07&show_icons=true&locale=en&layout=compact" alt="Yuvrajj07" /></p>
+   
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
