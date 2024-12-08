@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
-<h3 align="center">Competitive Programmer | Web Developer | Tech Enthusiast</h3>
+<h3 align="center"> | Competitive Programmer | </h3>
 
 <img align="right" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400"/>
 
