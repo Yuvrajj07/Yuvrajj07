@@ -1,7 +1,7 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I am Yuvraj Singh</h1>
 <h3 align="center"> | Competitive Programmer |</h3>
 
-![](https://komarev.com/ghpvc/?username=duplixx&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=yuvrajj07&label=PROFILE+VIEWS)
 <img align="right" alt="Night Coding" src="https://github.com/Pratham-19/Pratham-19/blob/main/header.gif" width="400" height="270"/>
 
 - 🌱 I’m currently learning **Web Development**  
