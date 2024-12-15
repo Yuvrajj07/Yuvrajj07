@@ -9,7 +9,7 @@
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me: <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left">
   <a href="https://www.linkedin.com/in/yuvraj-singh-398833243" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
