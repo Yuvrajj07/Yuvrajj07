@@ -1,3 +1,5 @@
+<img src="https://github.com/Pratham-19/Pratham-19/blob/main/header.gif">
+
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center"> | Competitive Programmer |</h3>
 
