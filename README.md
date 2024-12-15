@@ -1,9 +1,7 @@
-<img src="https://github.com/Pratham-19/Pratham-19/blob/main/header.gif">
-
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center"> | Competitive Programmer |</h3>
 
-<img align="right" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400"/>
+<img align="right" alt="Night Coding" src="https://github.com/Pratham-19/Pratham-19/blob/main/header.gif" width="400"/>
 
 - 🌱 I’m currently learning **Web Development**  
 - 📫 Reach me at **vyuvrajsingh98@gmail.com**
