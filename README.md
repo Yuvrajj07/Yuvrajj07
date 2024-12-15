@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Yuvraj Singh</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I am Yuvraj Singh</h1>
 <h3 align="center"> | Competitive Programmer |</h3>
 
 <img align="right" alt="Night Coding" src="https://github.com/Pratham-19/Pratham-19/blob/main/header.gif" width="400" height="270"/>
