@@ -10,6 +10,7 @@
 ---
 
 ### 🌐 Connect with Me: <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
+
 <p align="left">
   <a href="https://www.linkedin.com/in/yuvraj-singh-398833243" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
@@ -27,7 +28,8 @@
 
 ---
 
-### 🛠️ Languages and Tools:<p align="left">
+### 🛠️ Languages and Tools:<p align="left">  <img src="https://media.giphy.com/media/5xtDarA6JDYNFmWQvLy/giphy.gif?cid=790b76118chtrcr6j40v6ruyamt7nzdrr4un0se2oxan7sb7&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="32px">
+
 <p>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
