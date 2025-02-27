@@ -44,6 +44,10 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
+  
+  <a href="https://expressjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/expressjs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="40" height="40"/>
   </a>
