@@ -28,6 +28,7 @@
 ---
 
 ### 🛠️ Languages and Tools:<p align="left">
+<p>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
   </a>
