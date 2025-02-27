@@ -28,7 +28,7 @@
 
 ---
 
- ### 🛠️ Languages and Tools:<p align="left">  <img src="https://media.giphy.com/media/5xtDarA6JDYNFmWQvLy/giphy.gif?cid=790b76118chtrcr6j40v6ruyamt7nzdrr4un0se2oxan7sb7&ep=v1_gifs_search&rid=giphy.gif&ct=g
+ ### 🛠️ Languages and Tools:<p align="left">  
 
 <p>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
